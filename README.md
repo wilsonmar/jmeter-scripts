@@ -1,10 +1,11 @@
 This contains what you need to run JMeter scripts coded to invoke "The Internet" sample app that contains screens one can encounter.
 Dave Hoeffer wrote it for Selenium functional testers use to validate their skill.
 We're invoking it here to discuss best practices for coding JMeter, structuring GitHub, etc.
+This is similar to https://wilsonmar.github.io/flood-the-internet/#challenges-on-the-internet-app
 
 ## Setup
 
-Scripts in this repo can be run in Blazemeter (using a free account).
+Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
 1. Get account
@@ -18,6 +19,11 @@ But if you're editing scripts, install JMeter on your laptop:
    `source .envrc`
 
 3. Verify that jmeter is on your path by typing which jmeter
+
+To run performance/load tests, we spin up instances of "The-internet" app.
+
+1. TODO ...
+
 
 ## References
 
