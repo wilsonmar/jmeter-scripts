@@ -4,6 +4,12 @@ Several sample applications are used as the basis for learning and discussing be
 
    * In "The-Internal" folder are scripts to invoke "The Internet" sample app Dave Hoeffer wrote for Selenium functional testers use to validate their skill. This is similar to https://wilsonmar.github.io/flood-the-internet/#challenges-on-the-internet-app
 
+Several people contributed to this project:
+   * Anil Mainali 
+   * Wilson Mar
+   * <em>How about you?</em>
+
+They may be available for tutoring.
 
 ## Setup
 
