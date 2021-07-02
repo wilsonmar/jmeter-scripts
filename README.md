@@ -4,18 +4,24 @@ We're invoking it here to discuss best practices for coding JMeter, structuring 
 
 ## Setup
 
-This repository has everything, with the exception for Java VM, you need to run Apache Jmeter We use .envrc to automatically configure your path. If you do not use direnv you have to run a bash shell and run the command
+Scripts in this repo were run in Blazmeter.
 
-`source .envrc`
+If you're running on your local laptop, to automatically configure your path if you do not use direnv:
+
+   `source .envrc`
 
 Verify that jmeter is on your path by typing which jmeter
 
+## References
 
 NOTE: This is based on the structure of folders at
 * https://github.com/jmeterbyexample/jmeter-test-scripts
+* https://github.com/nighteblis/JmeterBook is a JMeter tutorial in Chinese and English at https://www.hissummer.com/
 * https://github.com/Sunbird-Ed/sunbird-perf-tests
 * https://github.com/cf-identity/jmeter pulls in Apache JMeter so that new versions will not break runs by my scripts here.
    It also contains png files of metrics generated during the last run.
+* https://github.com/ambertests/JMeterExamples has a PropExample.jmx - Script which takes properties from the command-line
 
+Others:
 * https://github.com/apolloclark/jmeter
 * https://github.com/mozilla/jmeter-scripts
