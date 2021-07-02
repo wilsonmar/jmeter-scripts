@@ -1,8 +1,9 @@
-This contains what you need to run JMeter scripts.
-We invoke "The Internet" sample app that contains screens one can encounter.
-Dave Hoeffer wrote it for Selenium functional testers use to validate their skill.
-We're invoking it here to discuss best practices for coding JMeter, structuring GitHub, etc.
-This is similar to https://wilsonmar.github.io/flood-the-internet/#challenges-on-the-internet-app
+This contains what you need to run sample JMeter scripts.
+
+Several sample applications are used as the basis for learning and discussing best practices:
+
+   * In "The-Internal" folder are scripts to invoke "The Internet" sample app Dave Hoeffer wrote for Selenium functional testers use to validate their skill. This is similar to https://wilsonmar.github.io/flood-the-internet/#challenges-on-the-internet-app
+
 
 ## Setup
 
