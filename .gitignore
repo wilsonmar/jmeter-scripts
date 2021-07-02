@@ -1,3 +1,6 @@
+# JMeter 
+*.jtl
+
 # Compiled class file
 *.class
 
