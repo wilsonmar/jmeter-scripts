@@ -4,13 +4,20 @@ We're invoking it here to discuss best practices for coding JMeter, structuring 
 
 ## Setup
 
-Scripts in this repo were run in Blazmeter.
+Scripts in this repo can be run in Blazemeter (using a free account).
+That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
-If you're running on your local laptop, to automatically configure your path if you do not use direnv:
+1. Get account
+2. ...
+
+But if you're editing scripts, install JMeter on your laptop:
+
+1. TODO:
+2. If you're running on your local laptop, to automatically configure your path if you do not use direnv:
 
    `source .envrc`
 
-Verify that jmeter is on your path by typing which jmeter
+3. Verify that jmeter is on your path by typing which jmeter
 
 ## References
 
