@@ -16,7 +16,7 @@ They may be available for tutoring.
 Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
-1. Get account
+### Get account
 
 1. Navigate to https://www.blazemeter.com/
 2. Click on Start Testing Now Link.
