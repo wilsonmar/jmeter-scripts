@@ -13,30 +13,36 @@ They may be available for tutoring.
 
 ## Setup
 
+Apache JMeter is a Git submodule to ensure that the scripts continue working even when JMeter is changed.
+Also, submodules provide a way to analyze what went wrong (for forensics).
+
+See https://devcenter.heroku.com/articles/git-submodules
+
 Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
+
+### Step 2 – Sign up for BlazeMeter Account
+
+1. Navigate to https://www.blazemeter.com/
+2. Click on Start Testing Now Link.
+3. Enter First name, Last name, <strong>business</strong> email (not Gmail), Company and Click on REGISTER link.
+4. Pop up screen appears. Click on Close.
+
+Congratulations! You have now created a BlazeMeter Account.
+
+### Step 3- Run in JMeter Scripts Blazemeter
+
+TODO:
+
+## Run JMeter scripts on laptop
+
+But if you're editing scripts, install JMeter on your laptop:
 
 ### Step 1- Download jmeter-scripts Repo
 1.	Navigate to https://github.com/wilsonmar/jmeter-scripts
 2.	Click on Code and click on Download ZIP.
 3.	Zip file is downloaded.
 4.	Navigate to download folder and unzip the folder. You may save the unzipped folder to your desired location, or you can access from download folder later.
-
-
-### Step 2 – Sign up for BlazeMeter Account
-
-1. Navigate to https://www.blazemeter.com/
-2. Click on Start Testing Now Link.
-3. Enter First name, Last name, Email, Company and Click on REGISTER link.
-4. Pop up screen appears. Click on Close.
-
-Congratulations! You have now created a BlazeMeter Account.
-
-### Step 3- Run the JMeter Scripts
-
-TODO:
-
-But if you're editing scripts, install JMeter on your laptop:
 
 1. TODO:
 2. If you're running on your local laptop, to automatically configure your path if you do not use direnv:
