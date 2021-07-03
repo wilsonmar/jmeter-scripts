@@ -17,7 +17,15 @@ Scripts in this repo can be run in Blazemeter (using a free account) for single 
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
 1. Get account
-2. ...
+
+1. Navigate to https://www.blazemeter.com/
+2. Click on Start Testing Now Link.
+3. Enter First name, Last name, Email, Company and Click on REGISTER link.
+4. Pop up screen appears. Click on Close.
+
+Now you are at BlazeMeter interface.
+
+3. ...
 
 But if you're editing scripts, install JMeter on your laptop:
 
