@@ -27,9 +27,12 @@ That's simpler than setting up JMeter on your laptop (even on a Chromebook with 
 
 ![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
 
-3. Click on Start Testing Now Link.
-4. Enter First name, Last name, <strong>business</strong> email (not Gmail), Company and Click on REGISTER link.
-5. Pop up screen appears. Click on Close.
+2. Click on Start Testing Now Link.
+
+![BMA_02](https://user-images.githubusercontent.com/10678180/124376017-8cb13580-dc6a-11eb-9b86-1f556e08b07c.png)
+
+3. Enter First name, Last name, <strong>business</strong> email (not Gmail), Company and Click on REGISTER link.
+4. Pop up screen appears. Click on Close.
 
 Congratulations! You have now created a BlazeMeter Account.
 
