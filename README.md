@@ -65,6 +65,9 @@ jmeter-scripts-main folder is unzipped.
 
 ![DJMSR_05](https://user-images.githubusercontent.com/10678180/124376829-6beadf00-dc6e-11eb-9230-d0ea2d318963.png)
 
+### Step 3- Run JMeter Scripts on BlazeMeter
+
+
 ## Run JMeter scripts on laptop
 
 But if you're editing scripts, install JMeter on your laptop:
