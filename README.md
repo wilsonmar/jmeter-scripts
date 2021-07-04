@@ -75,8 +75,16 @@ Congratulations! You have now created a BlazeMeter Account.
 ![RJMSFBM_02](https://user-images.githubusercontent.com/10678180/124377514-e5380100-dc71-11eb-967b-fe3384064be8.png)
 
 3. Click on Create New Test link.
+
+![RJMSFBM_03](https://user-images.githubusercontent.com/10678180/124377779-68a62200-dc73-11eb-9b9f-179165e16c15.png)
+
 4. Click on Performance Test link.
+
+![RJMSFBM_04](https://user-images.githubusercontent.com/10678180/124377780-693eb880-dc73-11eb-855b-abecae3a10c2.png)
+
 5. Navigate to your previous downloaded “jmeter-scripts-main” folder and upload the script which you want to run by clicking on the Plus Sign.
+
+![RJMSFBM_05](https://user-images.githubusercontent.com/10678180/124377781-693eb880-dc73-11eb-9e64-03e9195a4983.png)
 
 In my case
 
@@ -84,7 +92,11 @@ C:\Users\anilm\Projects_wWilsonMar\jmeter-scripts\the-internet.
 
 The script is uploaded onto BlazeMeter.
 
+![RJMSFBM_06](https://user-images.githubusercontent.com/10678180/124377783-693eb880-dc73-11eb-9683-5e681a72de5b.png)
+
 6. Next, Complete the Load Configuration.
+
+![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
 
 ## Run JMeter scripts on laptop
 
