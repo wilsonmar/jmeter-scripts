@@ -96,9 +96,39 @@ The script is uploaded onto BlazeMeter.
 
 ![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
 
-6. Next, Complete the Load Configuration.
+6. Next, Complete the Load Configuration.Set up total users - 1 User, Duration - 5 Minutes and ramp up time - 1 Min
 
+![RJMSFBM_08](https://user-images.githubusercontent.com/10678180/124377923-4660d400-dc74-11eb-8281-d35990dceb43.png)
 
+7. Next, set up the load distribution. Select the desired location for LG.
+
+![RJMSFBM_09](https://user-images.githubusercontent.com/10678180/124378163-a86e0900-dc75-11eb-882e-0a6f7c37eb64.png)
+
+8. Click on Debug Test.
+
+![RJMSFBM_10](https://user-images.githubusercontent.com/10678180/124378164-a86e0900-dc75-11eb-9f7e-e105ecd3898f.png)
+
+9. Click on Start Debug Run.
+
+![RJMSFBM_11](https://user-images.githubusercontent.com/10678180/124378165-a86e0900-dc75-11eb-9a2a-a743117f9aac.png)
+
+Warming Up message
+
+![RJMSFBM_12](https://user-images.githubusercontent.com/10678180/124378166-a9069f80-dc75-11eb-80a0-63d3d211d5fd.png)
+
+Your test will begin shortly message. Wait for some time until the test starts.
+
+![RJMSFBM_13](https://user-images.githubusercontent.com/10678180/124378167-a9069f80-dc75-11eb-8887-7bd6e04df3e2.png)
+
+The Load Test starts.
+
+![RJMSFBM_14](https://user-images.githubusercontent.com/10678180/124378168-a9069f80-dc75-11eb-8d88-a99ba5aa4413.png)
+
+The test completes after 5 Min with 0 % Errors
+
+![RJMSFBM_15](https://user-images.githubusercontent.com/10678180/124378169-a9069f80-dc75-11eb-91ad-36288f06e276.png)
+
+Congratulations! Now you have learnt how to Downloaded Repo from GitHub, Sign Up and run a test using BlazeMeter.
 
 ## Run JMeter scripts on laptop
 
