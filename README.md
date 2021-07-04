@@ -43,9 +43,12 @@ That's simpler than setting up JMeter on your laptop (even on a Chromebook with 
 
 Congratulations! You have now created a BlazeMeter Account.
 
-### Step 3- Run in JMeter Scripts Blazemeter
+### Step 2- Download jmeter-scripts Repo from GitHub
 
-TODO:
+1. Navigate to https://github.com/wilsonmar/jmeter-scripts
+2. Click on Code and click on Download ZIP.
+3. Zip file is downloaded.
+4. Navigate to download folder and unzip the folder. You may save the unzipped folder to your desired location, or you can access from download folder.
 
 ## Run JMeter scripts on laptop
 
