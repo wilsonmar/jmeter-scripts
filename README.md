@@ -21,12 +21,14 @@ See https://devcenter.heroku.com/articles/git-submodules
 Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
-### Step 2 – Sign up for BlazeMeter Account
+### Step 1 – Sign up for BlazeMeter Account
 
 1. Navigate to https://www.blazemeter.com/
-2. Click on Start Testing Now Link.
-3. Enter First name, Last name, <strong>business</strong> email (not Gmail), Company and Click on REGISTER link.
-4. Pop up screen appears. Click on Close.
+![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
+
+3. Click on Start Testing Now Link.
+4. Enter First name, Last name, <strong>business</strong> email (not Gmail), Company and Click on REGISTER link.
+5. Pop up screen appears. Click on Close.
 
 Congratulations! You have now created a BlazeMeter Account.
 
