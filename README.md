@@ -90,13 +90,15 @@ In my case
 
 C:\Users\anilm\Projects_wWilsonMar\jmeter-scripts\the-internet.
 
+![RJMSFBM_06](https://user-images.githubusercontent.com/10678180/124377783-693eb880-dc73-11eb-9683-5e681a72de5b.png)
+
 The script is uploaded onto BlazeMeter.
 
-![RJMSFBM_06](https://user-images.githubusercontent.com/10678180/124377783-693eb880-dc73-11eb-9683-5e681a72de5b.png)
+![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
 
 6. Next, Complete the Load Configuration.
 
-![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
+
 
 ## Run JMeter scripts on laptop
 
