@@ -46,9 +46,24 @@ Congratulations! You have now created a BlazeMeter Account.
 ### Step 2- Download jmeter-scripts Repo from GitHub
 
 1. Navigate to https://github.com/wilsonmar/jmeter-scripts
+
+![DJMSR_01](https://user-images.githubusercontent.com/10678180/124376825-6b524880-dc6e-11eb-8c13-4205efcdd6d5.png)
+
 2. Click on Code and click on Download ZIP.
-3. Zip file is downloaded.
-4. Navigate to download folder and unzip the folder. You may save the unzipped folder to your desired location, or you can access from download folder.
+
+![DJMSR_02](https://user-images.githubusercontent.com/10678180/124376826-6beadf00-dc6e-11eb-9d1b-ff0470020591.png)
+
+Zip file is downloaded.
+
+![DJMSR_03](https://user-images.githubusercontent.com/10678180/124376827-6beadf00-dc6e-11eb-9c48-505a9ce27c1c.png)
+
+3. Navigate to download folder and unzip the folder. You may save the unzipped folder to your desired location, or you can access from download folder.
+
+![DJMSR_04](https://user-images.githubusercontent.com/10678180/124376828-6beadf00-dc6e-11eb-8ebb-660be859ce9f.png)
+
+jmeter-scripts-main folder is unzipped.
+
+![DJMSR_05](https://user-images.githubusercontent.com/10678180/124376829-6beadf00-dc6e-11eb-9230-d0ea2d318963.png)
 
 ## Run JMeter scripts on laptop
 
