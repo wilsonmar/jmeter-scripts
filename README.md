@@ -24,6 +24,7 @@ That's simpler than setting up JMeter on your laptop (even on a Chromebook with 
 ### Step 1 – Sign up for BlazeMeter Account
 
 1. Navigate to https://www.blazemeter.com/
+
 ![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
 
 3. Click on Start Testing Now Link.
