@@ -70,6 +70,10 @@ Congratulations! You have now created a BlazeMeter Account.
 
 ![RJMSFBM_01](https://user-images.githubusercontent.com/10678180/124377429-7e1a4c80-dc71-11eb-8ed0-65f651434ece.png)
 
+2. Provide a name “the-internet” and click on Create project.
+
+![RJMSFBM_02](https://user-images.githubusercontent.com/10678180/124377514-e5380100-dc71-11eb-967b-fe3384064be8.png)
+
 
 
 ## Run JMeter scripts on laptop
