@@ -21,29 +21,7 @@ See https://devcenter.heroku.com/articles/git-submodules
 Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
 That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
-### Step 1 – Sign up for BlazeMeter Account
-
-1. Navigate to https://www.blazemeter.com/
-
-![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
-
-2. Click on Start Testing Now Link.
-
-![BMA_02](https://user-images.githubusercontent.com/10678180/124376017-8cb13580-dc6a-11eb-9b86-1f556e08b07c.png)
-
-3. Enter First name, Last name, Email and Click on REGISTER link.
-
-![BMA_03](https://user-images.githubusercontent.com/10678180/124376019-8cb13580-dc6a-11eb-817c-4219670a39ce.png)
-
-4. Pop up screen appears. Click on Close.
-
-![BMA_04](https://user-images.githubusercontent.com/10678180/124376022-8d49cc00-dc6a-11eb-9705-0245e808e007.png)
-
-![BMA_05](https://user-images.githubusercontent.com/10678180/124376023-8d49cc00-dc6a-11eb-93d3-23948d8240a7.png)
-
-Congratulations! You have now created a BlazeMeter Account.
-
-### Step 2- Download jmeter-scripts Repo from GitHub
+### Step 1- Download jmeter-scripts Repo from GitHub
 
 1. Navigate to https://github.com/wilsonmar/jmeter-scripts
 
@@ -64,6 +42,28 @@ Zip file is downloaded.
 jmeter-scripts-main folder is unzipped.
 
 ![DJMSR_05](https://user-images.githubusercontent.com/10678180/124376829-6beadf00-dc6e-11eb-9230-d0ea2d318963.png)
+
+### Step 2 – Sign up for BlazeMeter Account
+
+1. Navigate to https://www.blazemeter.com/
+
+![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
+
+2. Click on Start Testing Now Link.
+
+![BMA_02](https://user-images.githubusercontent.com/10678180/124376017-8cb13580-dc6a-11eb-9b86-1f556e08b07c.png)
+
+3. Enter First name, Last name, Email and Click on REGISTER link.
+
+![BMA_03](https://user-images.githubusercontent.com/10678180/124376019-8cb13580-dc6a-11eb-817c-4219670a39ce.png)
+
+4. Pop up screen appears. Click on Close.
+
+![BMA_04](https://user-images.githubusercontent.com/10678180/124376022-8d49cc00-dc6a-11eb-9705-0245e808e007.png)
+
+![BMA_05](https://user-images.githubusercontent.com/10678180/124376023-8d49cc00-dc6a-11eb-93d3-23948d8240a7.png)
+
+Congratulations! You have now created a BlazeMeter Account.
 
 ### Step 3- Run JMeter Scripts on BlazeMeter
 
