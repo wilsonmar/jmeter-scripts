@@ -66,6 +66,10 @@ jmeter-scripts-main folder is unzipped.
 Congratulations! You have now created a BlazeMeter Account.
 
 ### Step 3- Run JMeter Scripts on BlazeMeter
+1. Click on Projects and click on create new project.
+
+![RJMSFBM_01](https://user-images.githubusercontent.com/10678180/124377429-7e1a4c80-dc71-11eb-8ed0-65f651434ece.png)
+
 
 
 ## Run JMeter scripts on laptop
