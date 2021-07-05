@@ -128,7 +128,7 @@ The test completes after 5 Min with 0 % Errors
 
 ![RJMSFBM_15](https://user-images.githubusercontent.com/10678180/124378169-a9069f80-dc75-11eb-91ad-36288f06e276.png)
 
-Congratulations! Now you have learnt how to Downloaded Repo from GitHub, Sign Up and run a test using BlazeMeter.
+Congratulations! Now you have learnt how to Download jmeter-scripts Repo from GitHub to your local machine, Sign Up and run a test using BlazeMeter.
 
 ## Run JMeter scripts on laptop
 
