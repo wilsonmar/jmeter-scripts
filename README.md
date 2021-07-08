@@ -45,7 +45,7 @@ jmeter-scripts-main folder is unzipped.
 
 ### Step 2 – Sign up for BlazeMeter Account
 
-1. Navigate to https://www.blazemeter.com/
+1. Navigate to <a target="_blank" href="https://www.blazemeter.com/">https://www.blazemeter.com</a>
 
 ![BMA_01](https://user-images.githubusercontent.com/10678180/124376016-8cb13580-dc6a-11eb-91cc-42471ddcfbb2.png)
 
