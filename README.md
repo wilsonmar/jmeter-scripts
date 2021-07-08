@@ -66,6 +66,7 @@ jmeter-scripts-main folder is unzipped.
 Congratulations! You have now created a BlazeMeter Account.
 
 ### Step 3- Run JMeter Scripts on BlazeMeter
+
 1. Click on Projects and click on create new project.
 
 ![RJMSFBM_01](https://user-images.githubusercontent.com/10678180/124377429-7e1a4c80-dc71-11eb-8ed0-65f651434ece.png)
@@ -73,6 +74,7 @@ Congratulations! You have now created a BlazeMeter Account.
 2. Provide a name “the-internet” and click on Create project.
 
 ![RJMSFBM_02](https://user-images.githubusercontent.com/10678180/124377514-e5380100-dc71-11eb-967b-fe3384064be8.png)
+
 
 3. Click on Create New Test link.
 
@@ -128,13 +130,18 @@ The test completes after 5 Min with 0 % Errors
 
 ![RJMSFBM_15](https://user-images.githubusercontent.com/10678180/124378169-a9069f80-dc75-11eb-91ad-36288f06e276.png)
 
-Congratulations! Now you have learnt how to Download jmeter-scripts Repo from GitHub to your local machine, Sign Up and run a test using BlazeMeter.
+10. Click "Executive Summary"
+
+![executive-summary](https://user-images.githubusercontent.com/300046/124906183-05363000-dfa4-11eb-91fc-e03191c06677.png)
+
+Congratulations! Now you have Downloaded jmeter-scripts Repo from GitHub to your local machine, then signed Up and run a test using BlazeMeter.
 
 ## Run JMeter scripts on laptop
 
 But if you're editing scripts, install JMeter on your laptop:
 
 ### Step 1- Download jmeter-scripts Repo
+
 1.	Navigate to https://github.com/wilsonmar/jmeter-scripts
 2.	Click on Code and click on Download ZIP.
 3.	Zip file is downloaded.
