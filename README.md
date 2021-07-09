@@ -98,6 +98,8 @@ The script is uploaded onto BlazeMeter.
 
 ![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
 
+*If you want to upload multiple files, select all the files you need to upload and upload the files at once.*
+
 6. Next, Complete the Load Configuration.Set up total users - 1 User, Duration - 5 Minutes and ramp up time - 1 Min
 
 ![RJMSFBM_08](https://user-images.githubusercontent.com/10678180/124377923-4660d400-dc74-11eb-8281-d35990dceb43.png)
