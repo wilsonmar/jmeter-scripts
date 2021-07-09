@@ -96,9 +96,9 @@ C:\Users\anilm\Projects_wWilsonMar\jmeter-scripts\the-internet.
 
 The script is uploaded onto BlazeMeter.
 
-*If you want to upload multiple files, select all the files you need to upload and upload the files at once.*
-
 ![RJMSFBM_07](https://user-images.githubusercontent.com/10678180/124377785-693eb880-dc73-11eb-8668-7de90ce33579.png)
+
+*If you want to upload multiple files, select all the files you need to upload and upload the files at once.*
 
 6. Next, Complete the Load Configuration.Set up total users - 1 User, Duration - 5 Minutes and ramp up time - 1 Min
 
