@@ -23,7 +23,7 @@ That's simpler than setting up JMeter on your laptop (even on a Chromebook with 
 
 ### Step 1- Download jmeter-scripts Repo from GitHub
 
-1. Navigate to https://github.com/wilsonmar/jmeter-scripts
+1. Navigate to "https://github.com/wilsonmar/jmeter-scripts"
 
 ![DJMSR_01](https://user-images.githubusercontent.com/10678180/124376825-6b524880-dc6e-11eb-8c13-4205efcdd6d5.png)
 
@@ -66,6 +66,8 @@ jmeter-scripts-main folder is unzipped.
 Congratulations! You have now created a BlazeMeter Account.
 
 ### Step 3- Run JMeter Scripts on BlazeMeter
+
+https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins
 
 1. Click on Projects and click on create new project.
 
