@@ -4,22 +4,40 @@ Several sample applications are used as the basis for learning and discussing be
 
    * In "The-Internal" folder are scripts to invoke "The Internet" sample app Dave Hoeffer wrote for Selenium functional testers use to validate their skill. This is similar to https://wilsonmar.github.io/flood-the-internet/#challenges-on-the-internet-app
 
-Several people contributed to this project:
+Several people contributed to this project (and may be available for tutoring):
    * Anil Mainali 
    * Wilson Mar
    * <em>How about you?</em>
 
-They may be available for tutoring.
 
-## Setup
+## Setup Scenarios
+
+The components necessary for performance/capacity testing are:
+
+   A. The <strong>application under test</strong>. I've used "the-internet" because it is intended as a set of JavaScript challenges for scripting user emulation scripts. There are other sample apps.
+
+   B. <strong>JMeter</strong> to run scripts that emulate 1 or a lot of client instances. Blazemeter cloud provides that. A Docker image of the free/open-source Jenkins can be used locally or in a public cloud.
+   
+   C. <strong>Environment to host the app</strong>. Dave Hoeffer has graciously created an instance on Heroku for single-user runs during scripting. But for load/capacity tests, we need to create a stand-alone app instance within a cloud.
+
+   D. <strong>CI/CD workflow engine</strong> (such as Jenkins, Harness.io, CircleCI, GitHub Actions, etc.) which builds the app under test and test for security, functionality, capacity capability, etc. 
+
+   E. <strong>Monitoring</strong> (Metrics, Diagnostics, Logging) in the same environment running the app to identify trends, pin-point bottlenecks, and identify root causes.
+
+Below are step-by-step instructions for assemblying all 5 components, in several scenarios:
+
+   1. The simplest is to run single transactions against the "the-internet" demo app in <strong>Blazemeter</strong> for free for (not performance/load tests) after getting JMeter scripts from GitHub to your local machine and creating a free account.
+
+   2. To run capacity tests, <strong>stand up an app instance</strong> in the cloud and run up to 20 users running a single script from Blazemeter. 
+
+   3. To run off-grid/offline during script development (if you have the memory and hard drive space), set up the app under test, JMeter. and Jenkins on your laptop.
+
+   3. Use the CI/CD environment your devs use (such as at Harness.io, CircleCI, etc.) to run load/capacity tests.
 
 Apache JMeter is a Git submodule to ensure that the scripts continue working even when JMeter is changed.
 Also, submodules provide a way to analyze what went wrong (for forensics).
-
 See https://devcenter.heroku.com/articles/git-submodules
 
-Scripts in this repo can be run in Blazemeter (using a free account) for single transactions only (not performance/load tests).
-That's simpler than setting up JMeter on your laptop (even on a Chromebook with no local storage).
 
 ### Step 1- Download jmeter-scripts Repo from GitHub
 
