@@ -157,18 +157,26 @@ https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkin
 
 Congratulations! Now you have Downloaded jmeter-scripts Repo from GitHub to your local machine, then signed Up and run a test using BlazeMeter.
 
-## Run JMeter scripts on laptop
+
+## Run JMeter using Jenkins within AWS
+
+<a target="_blank" href="https://www.youtube.com/watch?v=E02iab7vZyg">VIDEO</a>:
+
+https://www.linkedin.com/pulse/running-jmeter-test-aws-ecs-anees-mohammed
+
+Back in 2016, Amazon wrote 
+https://aws.amazon.com/blogs/apn/performance-testing-in-continuous-delivery-using-aws-codepipeline-and-blazemeter/
+
+https://www.jenkins.io/doc/book/using/using-jmeter-with-jenkins/
+
+https://performanceengineeringsite.wordpress.com/2017/11/01/automating-jmeter-run-using-jenkins-ci-cd/
+
+
+
+## OPTION: Run JMeter scripts on laptop
 
 But if you're editing scripts, install JMeter on your laptop:
 
-### Step 1- Download jmeter-scripts Repo
-
-1.	Navigate to https://github.com/wilsonmar/jmeter-scripts
-2.	Click on Code and click on Download ZIP.
-3.	Zip file is downloaded.
-4.	Navigate to download folder and unzip the folder. You may save the unzipped folder to your desired location, or you can access from download folder later.
-
-1. TODO:
 2. If you're running on your local laptop, to automatically configure your path if you do not use direnv:
 
    `source .envrc`
